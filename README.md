@@ -1,3 +1,4 @@
+#CatSurvivalGame
 A basic Survival game.
 Arrow Keys to move the cat.
 Spacebar to change direction of bullets. 
